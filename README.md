@@ -1,5 +1,5 @@
 ## Plasma-Management-System
-With the sudden outbreak of Covid-19 accross the world,plasma therapy was considered as one of the most effevtive way of treatment during initial days. So it becomes very important to have a system which helps maintain the data of donors.<br><br>
+With the sudden outbreak of Covid-19 accross the world,plasma therapy was considered as one of the most effevtive way of treatement during initial days. So it becomes very important to have a system which helps maintain the data of donors.<br><br>
 ![image](https://user-images.githubusercontent.com/55754611/120229411-bc83ac80-c26a-11eb-8306-3b591c4ada50.png)
 
 <b> 1. Add donor:<b> New donor can be added with all the details using a form,this data gets saved in donors database. <br><br>
